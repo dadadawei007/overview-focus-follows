@@ -1,0 +1,12 @@
+{
+  "name": "Overview Focus Follows Workspace",
+  "description": "Keeps arrow-key focus navigation inside a workspace, follows focus across workspace boundaries, and focuses empty workspaces as a whole.",
+  "uuid": "overview-focus-follows@dadadawei.local",
+  "original-authors": [
+    "dadadawei"
+  ],
+  "shell-version": [
+    "50"
+  ],
+  "version": 11
+}

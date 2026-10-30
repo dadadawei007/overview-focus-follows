@@ -1,0 +1,26 @@
+.overview-focus-follows-preview {
+  border: 2px solid rgba(92, 167, 255, 0.95);
+  border-radius: 14px;
+  box-shadow:
+    0 0 0 2px rgba(92, 167, 255, 0.95),
+    0 0 22px 5px rgba(53, 132, 228, 0.5) !important;
+  transition-duration: 120ms;
+}
+
+.overview-focus-follows-preview-window {
+  border: 2px solid rgba(92, 167, 255, 0.95);
+  border-radius: 14px;
+}
+
+.overview-focus-follows-preview .window-caption {
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(43, 108, 190, 0.96);
+}
+
+.overview-focus-follows-empty {
+  border: 3px solid rgba(53, 132, 228, 0.95);
+  border-radius: 24px;
+  background-color: rgba(53, 132, 228, 0.08);
+  box-shadow: inset 0 0 0 3px rgba(53, 132, 228, 0.95) !important;
+  transition-duration: 120ms;
+}
